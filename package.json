@@ -1,0 +1,27 @@
+{
+  "name": "roomkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "body-parser-xml": "^1.1.0",
+    "ejs": "^2.5.7",
+    "express": "^4.15.5",
+    "ip": "^1.1.5",
+    "moment": "^2.18.1",
+    "node-env-file": "^0.1.8",
+    "redis": "^2.8.0",
+    "request": "^2.82.0",
+    "socket.io": "^2.0.3",
+    "sqlite3": "^3.1.12",
+    "util": "^0.10.3",
+    "xml2js": "^0.4.19"
+  }
+}

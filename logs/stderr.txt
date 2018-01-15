@@ -1,0 +1,430 @@
+﻿Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Sunday 08 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:136:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Sunday 08 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:136:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Monday 02 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:136:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+openssl config failed: error:02001003:system library:fopen:No such process
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Monday 02 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:136:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Sunday 08 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:170:26
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Monday 02 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:136:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Monday 02 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:136:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Monday 02 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:136:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Monday 02 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:131:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Tuesday 03 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:136:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+openssl config failed: error:02001003:system library:fopen:No such process
+openssl config failed: error:02001003:system library:fopen:No such process
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Tuesday 03 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:136:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Friday 13 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:144:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Friday 13 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:144:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Friday 13 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:144:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Friday 13 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:144:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Friday 13 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:144:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Friday 13 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:144:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Friday 13 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:144:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Friday 13 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:144:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Friday 13 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:144:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+TypeError: path must be absolute or specify root to res.sendFile
+    at ServerResponse.sendFile (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\response.js:410:11)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:255:9
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\index.js:275:10)
+    at SendStream.error (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\serve-static\index.js:121:7)
+TypeError: path must be absolute or specify root to res.sendFile
+    at ServerResponse.sendFile (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\response.js:410:11)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:255:9
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\index.js:275:10)
+    at SendStream.error (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\serve-static\index.js:121:7)
+openssl config failed: error:02001003:system library:fopen:No such process
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Tuesday 17 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:144:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Error: Cannot find module 'html'
+    at Function.Module._resolveFilename (module.js:485:15)
+    at Function.Module._load (module.js:437:25)
+    at Module.require (module.js:513:17)
+    at require (internal/module.js:11:18)
+    at new View (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\view.js:79:30)
+    at Function.render (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\application.js:570:12)
+    at ServerResponse.render (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\response.js:971:7)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:252:9
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\route.js:137:13)
+openssl config failed: error:02001003:system library:fopen:No such process
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Tuesday 17 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:145:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Tuesday 17 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:144:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Friday 27 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:144:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Friday 27 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:151:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)
+openssl config failed: error:02001003:system library:fopen:No such process
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Friday 27 October 2017, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:320:94)
+    at configFromString (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2178:11)
+    at configFromInput (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2547:9)
+    at prepareConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2530:9)
+    at createFromConfig (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2497:40)
+    at createLocalOrUTC (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2584:12)
+    at createLocal (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:2588:12)
+    at hooks (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\moment\moment.js:16:25)
+    at C:\inetpub\wwwroot\PUBLIC\Presence\server.js:151:25
+    at Layer.handle [as handle_request] (C:\inetpub\wwwroot\PUBLIC\Presence\node_modules\express\lib\router\layer.js:95:5)

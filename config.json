@@ -1,0 +1,20 @@
+{
+    "port": 15131,
+    "checkPresenceTimeInterval": 300000,
+    "codecs": {
+        "CODEC_NAME": {
+            "ip_address": "IP_ADDRESS",
+            "mac_address": "MAC_ADDRESS",
+            "username": "LOGIN",
+            "password": "PASSWORD",
+            "type": "CODEC_TYPE"
+        }
+    },
+    "charts": [{
+        "ip": "CODEC_IP",
+        "typeChart": "radar or line"
+    }, {
+        "ip": "CODEC_IP",
+        "typeChart": "radar or line"
+    }]
+}
