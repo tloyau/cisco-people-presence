@@ -2,6 +2,10 @@
 
 In this tutorial, you are going to learn how to set up the LightPresence application and seen realtime people presence in your building thanks to your Cisco endpoints.
 
+### Cisco DevNet Learnings Labs
+You can find here a lab which introduce the developement with xAPIs
+> https://learninglabs.cisco.com/lab/collab-xapi-intro/step/1
+
 ## 1. Enable RoomAnalytics on your endpoint
 
 Before you start developing, you need first to enable RoomAnalytics in your endpoint. To do that, you have to follow these steps :
